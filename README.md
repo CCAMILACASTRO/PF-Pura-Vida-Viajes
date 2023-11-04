@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=768"  width="768" height="300"> 
+    <img src="https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1200"  width="1200" height="300"> 
 </div >
     <h1 align="center"> Pura Vida Viajes Premium <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
    
